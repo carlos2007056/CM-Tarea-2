@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		070F60581B3F010100F2FE3E /* Pushguardar.mov in Resources */ = {isa = PBXBuildFile; fileRef = 070F60571B3F010100F2FE3E /* Pushguardar.mov */; };
 		0756BDB11B3DF171006F928C /* NSDate+RFC1123.html in Resources */ = {isa = PBXBuildFile; fileRef = 0756BD901B3DF171006F928C /* NSDate+RFC1123.html */; };
 		0756BDB21B3DF171006F928C /* NSString+GTMNSStringHTMLAdditions.html in Resources */ = {isa = PBXBuildFile; fileRef = 0756BD911B3DF171006F928C /* NSString+GTMNSStringHTMLAdditions.html */; };
 		0756BDB31B3DF171006F928C /* PushNotificationManager.html in Resources */ = {isa = PBXBuildFile; fileRef = 0756BD931B3DF171006F928C /* PushNotificationManager.html */; };
@@ -77,6 +78,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		070F60571B3F010100F2FE3E /* Pushguardar.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Pushguardar.mov; sourceTree = "<group>"; };
 		0756BD901B3DF171006F928C /* NSDate+RFC1123.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSDate+RFC1123.html"; sourceTree = "<group>"; };
 		0756BD911B3DF171006F928C /* NSString+GTMNSStringHTMLAdditions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSString+GTMNSStringHTMLAdditions.html"; sourceTree = "<group>"; };
 		0756BD931B3DF171006F928C /* PushNotificationManager.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationManager.html; sourceTree = "<group>"; };
@@ -282,6 +284,7 @@
 				583973351B38587600EF2611 /* CM-Tarea-2 */,
 				583973521B38587600EF2611 /* CM-Tarea-2Tests */,
 				583973341B38587600EF2611 /* Products */,
+				070F60571B3F010100F2FE3E /* Pushguardar.mov */,
 			);
 			sourceTree = "<group>";
 		};
@@ -503,6 +506,7 @@
 				586545341B3D97E10008180B /* img1.png in Resources */,
 				0756BDC91B3DF171006F928C /* LICENSE in Resources */,
 				586545411B3D9C560008180B /* pan.png in Resources */,
+				070F60581B3F010100F2FE3E /* Pushguardar.mov in Resources */,
 				0756BDB71B3DF171006F928C /* PWNotificationCenter.html in Resources */,
 				0756BDC71B3DF171006F928C /* PushNotificationDelegate.html in Resources */,
 				0756BDC01B3DF171006F928C /* hierarchy.html in Resources */,
